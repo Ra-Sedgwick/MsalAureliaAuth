@@ -1,0 +1,1 @@
+/// <reference path="./json-loader.d.ts" />

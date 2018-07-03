@@ -1,0 +1,33 @@
+{
+  "extends": [
+    "tslint:latest"
+  ],
+  "rules": {
+    "member-access": [
+      false
+    ],
+    "member-ordering": [
+      true, {
+        "order": "fields-first"
+      }
+    ],
+    "no-invalid-this": [
+      true
+    ],
+    "indent": [
+      true, "spaces"
+    ],
+    "max-line-length": [
+      true, 200
+    ],
+    "object-literal-sort-keys": false,
+    "ordered-imports": [
+      false
+    ],
+    "no-console": [
+      false
+    ],
+    "no-shadowed-variable": false,
+    "no-reference": false
+  }
+}
