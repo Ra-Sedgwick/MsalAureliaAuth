@@ -21,9 +21,8 @@ To build the code, follow these steps.
     ```
 6. To build the code, you can now run:
   ```shell
-   au build
-   - app runs on http://localhost:4747
-   - au run will run on port 4748 and a redirect url mismatch will occur. 
+   au run
+   - app runs on http://localhost:4748
   ```
 7. Authentication Flow
   - Entry point to application is main.ts > aurelia.start()

@@ -1,5 +1,5 @@
 {
   "clientId": "db83c947-848e-4df8-8378-c2863f03324c",
   "b2cScopes": ["https://graph.microsoft.com/user.read"],
-  "WebURL": "http://localhost:4747/"
+  "WebURL": "http://localhost:4748/"
 }
