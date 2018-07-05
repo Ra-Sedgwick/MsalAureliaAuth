@@ -2,6 +2,10 @@ node_modules
 .idea
 .DS_STORE
 .vscode
-scripts
 drop_folder
+
+
+
+
+
 package-lock.json
