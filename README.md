@@ -22,7 +22,7 @@ To build the code, follow these steps.
 6. To build the code, you can now run:
   ```shell
    au run
-   - app runs on http://localhost:4748
+   - app runs on http://localhost:4747
   ```
 7. Authentication Flow
   - Entry point to application is main.ts > aurelia.start()
